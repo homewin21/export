@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: localhost
+    username: user
+    password: password
+    driver-class-name:
